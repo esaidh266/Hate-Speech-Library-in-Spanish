@@ -17,6 +17,8 @@ Supported by:
 For more information:
 - [https://www.hatemedia.es/](https://www.hatemedia.es/) or contact elias.said@unir.net
 
+Said-Hung, E., Römer Pieretti, M., Montero-Diaz, . July ., De Lucas Vicente, A., & Torres, J. M. (2023). Hate Speech Library in Spanish / Librería de odio en Español. figshare. https://doi.org/10.6084/m9.figshare.22383643.v2 (['https://www.hatemedia.es/'])
+
 ---
 
 Librería de expresiones de odio detectado en medios informativos digitales en España, resultado del proyecto "Hatemedia" (proyecto PID2020-114584GB-I00), financiado por la Agencia Estatal de Investigación - Ministerio de Ciencia e Innovación. 
@@ -35,3 +37,7 @@ Apoyado por:
 
 Para más información:
 -	https://www.hatemedia.es/ o contactar a elias.said@unir.net
+
+Para usar este documento se agradece citarlo de la siguiente forma: 
+
+Said-Hung, E., Römer Pieretti, M., Montero-Diaz, . julio ., De Lucas Vicente, A., & Torres, J. M. (2023). Hate Speech Library in Spanish / Librería de odio en Español. figshare. https://doi.org/10.6084/m9.figshare.22383643.v2 (['https://www.hatemedia.es/'])
