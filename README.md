@@ -1,6 +1,6 @@
 # Hate-Speech-Library-in-Spanish
 
-Library of hate speech detected in digital news media in Spain, the result of the "Hatemedia" project (project PID2020-114584GB-I00), financed by the State Research Agency - Ministry of Science and Innovation.
+Library of hate speech detected in digital news media in Spain, the result of the "Hatemedia" project (project PID2020-114584GB-I00), financed by MCIN/ AEI /10.13039/501100011033.
 
 The database shows 7,210 more repeated simple and compound slogans, and from the semantic point of view tend to be hated in digital news media in Spain. The preparation of this final document required the following phases:
 
@@ -21,7 +21,7 @@ Said-Hung, E., Römer Pieretti, M., Montero-Diaz, . J., De Lucas Vicente, A., & 
 
 ---
 
-Librería de expresiones de odio detectado en medios informativos digitales en España, resultado del proyecto "Hatemedia" (proyecto PID2020-114584GB-I00), financiado por la Agencia Estatal de Investigación - Ministerio de Ciencia e Innovación. 
+Librería de expresiones de odio detectado en medios informativos digitales en España, resultado del proyecto "Hatemedia" (proyecto PID2020-114584GB-I00), financiado por MCIN/ AEI /10.13039/501100011033. 
 
 Las base de dato muestra 7.210 lemas simples y compuestos más repetidos y que desde el punto de vista semántico tienden al odio en medios informativos digitales en España. La elaboración de este documento final, requirió las siguientes fases: 
 
