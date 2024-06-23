@@ -20,7 +20,8 @@ Supported by:
 For more information:
 - [https://www.hatemedia.es/](https://www.hatemedia.es/) or contact elias.said@unir.net
 
-Said-Hung, E., Römer Pieretti, M., Montero-Diaz, . J., De Lucas Vicente, A., & Torres, J. M. (2023). Hate Speech Library in Spanish / Librería de odio en Español. https://doi.org/10.6084/m9.figshare.22383643.v2 
+How to cite: 
+- Said-Hung, E., Römer Pieretti, M., Montero-Diaz, . J., De Lucas Vicente, A., & Torres, J. M. (2023). Hate Speech Library in Spanish / Librería de odio en Español. https://doi.org/10.6084/m9.figshare.22383643.v2 
 
 ---
 
@@ -44,6 +45,5 @@ Apoyado por:
 Para más información:
 -	https://www.hatemedia.es/ o contactar a elias.said@unir.net
 
-Para usar este documento se agradece citarlo de la siguiente forma: 
-
-Said-Hung, E., Römer Pieretti, M., Montero-Diaz, J., De Lucas Vicente, A., & Torres, J. M. (2023). Hate Speech Library in Spanish / Librería de odio en Español. figshare. https://doi.org/10.6084/m9.figshare.22383643.v2 
+Cómo citar: 
+- Said-Hung, E., Römer Pieretti, M., Montero-Diaz, J., De Lucas Vicente, A., & Torres, J. M. (2023). Hate Speech Library in Spanish / Librería de odio en Español. figshare. https://doi.org/10.6084/m9.figshare.22383643.v2 
