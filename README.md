@@ -8,7 +8,7 @@ The database shows 7,210 more repeated simple and compound slogans, and from the
 2. IDENTIFICATION OF DUPLICATES: In the first phase, two lists were made, the first of simple lemmas and the second of compound lemmas. The first step was to filter these two lists to identify repeated lemmas, obtaining these two libraries where each lemma appears only once.
 3. DDBB INTEGRATION: Next, in the third phase, we proceeded to join both libraries to build a final library that integrated all the lemmas, both simple and compound. Finally, final filtering was done to ensure the lemmas were not repeated.
 
-The dataset that has been used to build this library:
+The dataset that has been used to build this library: 
 - Said-Hung, Elias; Montero-Diaz, julio; Blanco, Xiomara; Ruiz-Iniesta, Almudena; Pérez Palau, Daniel; De Gregorio Vicente, Oscar; et al. (2024). Dataset usado para entrenamientos de modelos de algoritmos de clasificación de odio, por tipos e intensidades (Dataset used to train hate classification algorithm models by types and intensities). figshare. Dataset. https://doi.org/10.6084/m9.figshare.26085700.v1
 
 Authors:
